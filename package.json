@@ -1,0 +1,25 @@
+{
+  "name": "tif",
+  "version": "1.0.0",
+  "description": "ternanry if",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etoxin/tif.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/etoxin/tif/issues"
+  },
+  "homepage": "https://github.com/etoxin/tif#readme",
+  "devDependencies": {
+    "mocha": "^6.0.0"
+  },
+  "dependencies": {
+    "assert": "^1.4.1"
+  }
+}
